@@ -1,6 +1,6 @@
                           README for KOffice
 
-KOffice is a collection of office applications linked together by a
+Warp-office is a collection of office applications linked together by a
 common base.  This common base assures that all office application can
 work together and also share a common look and feel.
 
@@ -13,10 +13,10 @@ Contents
 
 The applications currently included in KOffice (version 2.1) are:
 
-- KWord      -  Word processor
-- KCells     -  Spreadsheet calculator
-- Showcase   -  Presentation program
-- Arts       -  Vector graphics
+- Warp Word Pro     -  Word processor
+- Warp Cells     -  Spreadsheet calculator
+- Warp Presentation   -  Presentation program
+- Warp Vector       -  Vector graphics
 
 More information can be found at http://www.koffice.org
 
