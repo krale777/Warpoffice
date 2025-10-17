@@ -1,4 +1,4 @@
-                          README for KOffice
+                          README for Warp Office
 
 Warp-office is a collection of office applications linked together by a
 common base.  This common base assures that all office application can
@@ -18,32 +18,5 @@ The applications currently included in KOffice (version 2.1) are:
 - Warp Presentation   -  Presentation program
 - Warp Vector       -  Vector graphics
 
-More information can be found at http://www.koffice.org
 
-Building and running
---------------------
-
-KOffice is based on the KDE libraries ( http://www.kde.org ) which are
-needed to run KOffice.  Note that you don't have to actually run the
-KDE workspace in order to use KOffice.  KOffice works fine
-on any desktop or platform.
-
-See for up-to-date info;
-http://wiki.koffice.org/index.php?title=Build_KOffice
-
-Contact info
-------------
-
-User mailing list:      mailto:koffice@kde.org
-Developer mailing list: mailto:koffice-devel@kde.org
-
-Subscribing and list information: http://www.kde.org/mailinglists
-Archives: http://lists.kde.org
-
-IRC channel for developers:  #koffice-devel on irc.freenode.org
-
-KOffice forums:         http://forum.kde.org/viewforum.php?f=96
-
-If you have questions about this README file or about KOffice in general,
-please mail to the KOffice mailing list: mailto:koffice@kde.org
 
